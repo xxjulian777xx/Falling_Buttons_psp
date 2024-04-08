@@ -1,0 +1,15 @@
+x =  ---- Velocidad es aconsejable que no pase de  20 ni que sea menor de 5 
+
+if relog >=   and canciones == true then --Aqui pondras el seg en el que se termine 
+pausa = 1
+izquierda = nil
+derecha = nil
+arriba = nil
+abajo = nil
+equis = nil
+cuadrado = nil
+triangulo = nil
+circulo = nil
+fondo = nil
+LISTA()
+end

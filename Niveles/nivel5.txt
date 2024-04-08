@@ -1,0 +1,30 @@
+x = 10
+
+if relog >= 158 and giras == true then
+pausa = 1
+izquierda = nil
+derecha = nil
+arriba = nil
+abajo = nil
+equis = nil
+cuadrado = nil
+triangulo = nil
+circulo = nil
+fondo = nil
+GUARDADO()
+end
+
+if relog >= 158 and canciones == true then
+pausa = 1
+izquierda = nil
+derecha = nil
+arriba = nil
+abajo = nil
+equis = nil
+cuadrado = nil
+triangulo = nil
+circulo = nil
+fondo = nil
+LISTA()
+end
+

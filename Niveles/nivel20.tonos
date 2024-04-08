@@ -1,0 +1,150 @@
+if relog >= 2 then  
+Cuadrado[1].y = Cuadrado[1].y +x  
+end
+if relog >= 3 then  
+Circulo[1].y = Circulo[1].y +x  
+end
+if relog >= 4 then  
+Equis[1].y = Equis[1].y +x  
+end
+if relog >= 6 then  
+Triangulo[1].y = Triangulo[1].y +x  
+end
+if relog >= 8 then  
+Derecha[1].y = Derecha[1].y +x  
+end
+if relog >= 10 then  
+Izquierda[1].y = Izquierda[1].y +x  
+end
+if relog >= 12 then  
+Derecha[2].y = Derecha[2].y +x  
+end
+if relog >= 14 then  
+Triangulo[2].y = Triangulo[2].y +x  
+end
+if relog >= 16 then  
+Cuadrado[2].y = Cuadrado[2].y +x  
+end
+if relog >= 17 then  
+Circulo[2].y = Circulo[2].y +x  
+end
+if relog >= 18 then  
+Abajo[1].y = Abajo[1].y +x  
+end
+if relog >= 20 then  
+Arriba[1].y = Arriba[1].y +x  
+end
+if relog >= 22 then  
+Derecha[3].y = Derecha[3].y +x  
+end
+if relog >= 24 then  
+Izquierda[2].y = Izquierda[2].y +x  
+end
+if relog >= 26 then  
+Derecha[4].y = Derecha[4].y +x  
+end
+if relog >= 28 then  
+Triangulo[3].y = Triangulo[3].y +x  
+end
+if relog >= 31 then  
+Equis[2].y = Equis[2].y +x  
+end
+if relog >= 32 then  
+Triangulo[4].y = Triangulo[4].y +x  
+end
+if relog >= 33 then  
+Derecha[5].y = Derecha[5].y +x  
+end
+if relog >= 34 then  
+Arriba[2].y = Arriba[2].y +x  
+end
+if relog >= 36 then  
+Cuadrado[3].y = Cuadrado[3].y +x  
+end
+if relog >= 38 then  
+Triangulo[5].y = Triangulo[5].y +x  
+end
+if relog >= 41 then  
+Triangulo[6].y = Triangulo[6].y +x  
+end
+if relog >= 42 then  
+Equis[3].y = Equis[3].y +x  
+end
+if relog >= 43 then  
+Equis[4].y = Equis[4].y +x  
+end
+if relog >= 44 then  
+Circulo[3].y = Circulo[3].y +x  
+end
+if relog >= 46 then  
+Circulo[4].y = Circulo[4].y +x  
+end
+if relog >= 48 then  
+Cuadrado[4].y = Cuadrado[4].y +x  
+end
+if relog >= 50 then  
+Cuadrado[5].y = Cuadrado[5].y +x  
+end
+if relog >= 51 then  
+Triangulo[7].y = Triangulo[7].y +x  
+end
+if relog >= 52 then  
+Triangulo[8].y = Triangulo[8].y +x  
+end
+if relog >= 53 then  
+Derecha[6].y = Derecha[6].y +x  
+end
+if relog >= 55 then  
+Izquierda[3].y = Izquierda[3].y +x  
+end
+if relog >= 56 then  
+Izquierda[4].y = Izquierda[4].y +x  
+end
+if relog >= 57 then  
+Abajo[2].y = Abajo[2].y +x  
+end
+if relog >= 58 then  
+Abajo[3].y = Abajo[3].y +x  
+end
+if relog >= 60 then  
+Arriba[3].y = Arriba[3].y +x  
+end
+if relog >= 62 then  
+Arriba[4].y = Arriba[4].y +x  
+end
+if relog >= 63 then  
+Derecha[7].y = Derecha[7].y +x  
+end
+if relog >= 65 then  
+Derecha[8].y = Derecha[8].y +x  
+end
+if relog >= 68 then  
+Derecha[9].y = Derecha[9].y +x  
+end
+if relog >= 70 then  
+Triangulo[9].y = Triangulo[9].y +x  
+end
+if relog >= 72 then  
+Triangulo[10].y = Triangulo[10].y +x  
+end
+if relog >= 76 then  
+Cuadrado[6].y = Cuadrado[6].y +x  
+end
+if relog >= 78 then  
+Cuadrado[7].y = Cuadrado[7].y +x  
+end
+if relog >= 80 then  
+Circulo[5].y = Circulo[5].y +x  
+end
+if relog >= 81 then  
+Circulo[6].y = Circulo[6].y +x  
+end
+if relog >= 82 then  
+Cuadrado[8].y = Cuadrado[8].y +x  
+end
+if relog >= 83 then  
+Cuadrado[9].y = Cuadrado[9].y +x  
+end
+if relog >= 84 then  
+Triangulo[11].y = Triangulo[11].y +x  
+end
